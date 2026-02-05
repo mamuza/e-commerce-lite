@@ -1,0 +1,19 @@
+# Nuxt
+.nuxt
+.output
+.data
+dist
+
+# Node
+node_modules
+
+# Lock files
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Prisma
+prisma/migrations
+
+# Generated
+*.min.js
